@@ -9,14 +9,10 @@ package javaapplication4;
  *
  * @author Harwinder_Sandhu
  */
-public class JavaApplication4 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Test Application");
+public class Apps {
+    
+    public static void main(String args[]){
+        System.out.println("Test Application1");
     }
     
 }
